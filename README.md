@@ -1,5 +1,6 @@
 # Modul-226a
-RobiGame
+RobiGame Hausaufgaben
 - Namensabfrage
 - Spiel mit Punktestand
-- Liste mit Highscores
+- Erstellung der Highscore Liste
+- Eintrag des Punktestands in die Highscore Liste
